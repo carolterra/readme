@@ -1,5 +1,6 @@
 # 👋 Olá, sou a Carol Terra!
 - 🏡 Brasil - MG
+- 😊 Ela/Dela
 - 🌎 Português/English/Español
 - 📚:💻 Análise e Desenvolvimento de Sistemas - 1º Semestre|📔 Curso Meninas Programadoras USP - ✔
 </div>
@@ -19,3 +20,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href = "mailto:carolinenterra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div>  
+
+   ![Snake animation](https://github.com/carolterra/carolterra/blob/output/github-contribution-grid-snake.svg)

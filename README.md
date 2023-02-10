@@ -1,7 +1,7 @@
 # 👋 Olá, sou a Carol Terra!
 - 🏡 Brasil - MG
 - 🌎 Português/English/Español
-- 📚:💻 Análise e Desenvolvimento de Sistemas - 1º Semestre//📔 Curso Meninas Programadoras USP: Introdução à programação em Python - ✔
+- 📚:💻 Análise e Desenvolvimento de Sistemas - 1º Semestre|📔 Curso Meninas Programadoras USP - ✔
 </div>
   
   ##

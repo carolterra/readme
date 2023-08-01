@@ -1,17 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A61C74&height=120&section=header"/>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=carolterra&color=ff69b4"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=carolterra&color=ff9933"><br>
 <div align="center">
   <a href="https://github.com/carolterra">
   </a>
 </div>
 
 <h1 align="center">
-   Hi 👋, I´m Caroline Terra
+  Hi 👋, I´m Caroline Terra
 </h1>
 
 - 😊 Pronouns: She/Her
-- 🌱 Begginer programmer who is always up for a new challenge
+- 🌱 Beginner programmer who is always ready to learn something new
 - 📚 Student of the Systems Analysis and Development course at Unifenas and the Interdisciplinary Baccalaureate of Science and Economics at Unifal
 - 🌎 Português | English | Español | Français
   ##
